@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\bin\Debug\PP_DIP.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\bin\Debug\PP_DIP.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\bin\Debug\PP_DIP.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\obj\Debug\PP_DIP.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\obj\Debug\PP_DIP.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\obj\Debug\PP_DIP.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\PP_DIP\PP_DIP\PP_DIP\obj\Debug\PP_DIP.pdb

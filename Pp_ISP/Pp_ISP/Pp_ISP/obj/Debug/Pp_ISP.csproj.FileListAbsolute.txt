@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\bin\Debug\Pp_ISP.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\bin\Debug\Pp_ISP.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\bin\Debug\Pp_ISP.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\obj\Debug\Pp_ISP.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\obj\Debug\Pp_ISP.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\obj\Debug\Pp_ISP.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_ISP\Pp_ISP\Pp_ISP\obj\Debug\Pp_ISP.pdb
